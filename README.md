@@ -24,9 +24,7 @@ No tests required or performed other than loading in Chrome, IE, and Firefox
 
 ## GitHub Pages
 
-[a link](https://brendapdx.github.io/portfolio/)
-
-NO Contributors.
+[View gh-pages branch](https://brendapdx.github.io/portfolio/)
 
 ### License
 
