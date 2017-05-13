@@ -22,10 +22,12 @@ Simple HTML using CSS and Bootstrap
 
 No tests required or performed other than loading in Chrome, IE, and Firefox
 
-## Contributors
+## GitHub Pages
+
+[a link](https://brendapdx.github.io/portfolio/)
 
 NO Contributors.
 
-## License
+### License
 
 Using standard MIT license.
